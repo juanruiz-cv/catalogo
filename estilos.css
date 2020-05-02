@@ -207,10 +207,10 @@ footer .creado-por {
 	margin-bottom: 40px;
 	text-align: center;
 	font-size: 14px;
-	color: #c13584;
+	color: #fff;
 }
 
-footer .creado-por a {color: #000;}
+footer .creado-por a {color: #ff6900;}
 footer .creado-por a:hover {text-decoration: underline;}
 
 /* ------------------------- */
